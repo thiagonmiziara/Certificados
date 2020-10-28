@@ -1,4 +1,4 @@
-<h1>Esse são meus certificados</h1>
+<h1>Esses são os meus certificados</h1>
 
 <img src='imgs/inicianteEmProgamação.jpg'>
 <img src='imgs/formação-frontend.jpg'>
