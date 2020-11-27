@@ -1,3 +1,6 @@
+
+
+
 <h1>Esses são os meus certificados</h1>
 
 <img src='imgs/inicianteEmProgamação.jpg'>
@@ -24,4 +27,6 @@
 <img src='imgs/js10.jpg'>
 <img src='imgs/js11.jpg'>
 <img src='imgs/js12.jpg'>
+<img src='imgs/restNode.jpg'>
+
 
