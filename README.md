@@ -27,6 +27,7 @@
 <img src='imgs/js10.jpg'>
 <img src='imgs/js11.jpg'>
 <img src='imgs/js12.jpg'>
-<img src='imgs/restNode.jpg'>
+<img src='imgs/restNode.jpg'> 
+<img src='imgs/fetchAPI.jpg'>
 
 
