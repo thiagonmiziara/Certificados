@@ -29,5 +29,7 @@
 <img src='imgs/js12.jpg'>
 <img src='imgs/restNode.jpg'> 
 <img src='imgs/fetchAPI.jpg'>
+<img src='imgs/spa.jpg'>
+
 
 
