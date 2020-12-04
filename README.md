@@ -30,6 +30,9 @@
 <img src='imgs/restNode.jpg'> 
 <img src='imgs/fetchAPI.jpg'>
 <img src='imgs/spa.jpg'>
+<img src='imgs/js13.png'>
+<img src='imgs/react1.png'>
+
 
 
 
