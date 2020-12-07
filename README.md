@@ -32,6 +32,7 @@
 <img src='imgs/spa.jpg'>
 <img src='imgs/js13.png'>
 <img src='imgs/react1.png'>
+<img src='imgs/reactjs2.png'>
 
 
 
