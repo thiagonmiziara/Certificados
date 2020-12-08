@@ -5,6 +5,7 @@
 
 <img src='imgs/inicianteEmProgamação.jpg'>
 <img src='imgs/formação-frontend.jpg'>
+<img src='imgs/formacao-reactjs.png'>
 <img src='imgs/cursohttp.png'>
 <img src='imgs/htmlpt1.jpg'>
 <img src='imgs/htmlpt2.jpg'>
